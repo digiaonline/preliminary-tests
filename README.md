@@ -1,4 +1,4 @@
-# preliminary-tests
+# Preliminary tests
 
 Our preliminary tests.
 
