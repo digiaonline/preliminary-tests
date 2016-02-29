@@ -14,7 +14,7 @@ Your task is to create a small [React](https://facebook.github.io/react/) applic
 - Add support for deleting rows by clicking on a remove icon (remember to confirm deletion)
 - Make each column sortable upon clicking on a column header (remember to support both ascending and descending order)
 
-We will provide you with a design for the application and expect your application to follow the design as closely as possible.
+We will provide you with a [design](design.pdf) for the application and expect your application to follow the design as closely as possible.
 
 You will receive extra points for
 
