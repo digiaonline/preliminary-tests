@@ -4,7 +4,7 @@ This is a preliminary test to determine the technical ability of developers appl
 
 Before starting, please read carefully through the instructions below. You are free to look up any information online and offline and spend as much time on the test as you deem necessary. Please direct any questions to Eric Nishio at eric.nishio@nordsoftware.com.
 
-Your task is to create a small React application that meets the following requirements:
+Your task is to create a small [React](https://facebook.github.io/react/) application that meets the following requirements:
 
 - Generate 100 users containing randomized values for the following properties: id (string), name (string), gender (male or female), and age (number)
 - Render a table that displays the users on individual rows
@@ -21,7 +21,7 @@ You will receive extra points for
 - Using a transpiler and ES.next
 - Using a CSS framework and a CSS pre-processor
 - Persisting the data in the browser
-- Using a state container such as Redux
+- Using a state container such as [Redux](http://redux.js.org)
 - Adding CSS transitions where appropriate
 
 Upon completing the test, please deliver the code as a zip file, or link to a public repository containing the code, and send it to eric.nishio@nordsoftware.com.
