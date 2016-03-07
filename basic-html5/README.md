@@ -6,6 +6,7 @@ Before starting, please read carefully through the instructions below. You are f
 
 Your task is to create a small application that meets the following requirements:
 
+- The application must be a static HTML5 application (only HTML, CSS, JavaScript, images, and fonts)
 - Render a table that displays users on individual rows
 - Create a form for adding new users to the table
 - A user should have the following properties: id (string), name (string), gender (male or female), and age (number)
