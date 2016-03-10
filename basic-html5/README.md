@@ -23,6 +23,6 @@ You will receive extra points for
 - Using a CSS framework
 - Using a CSS pre-processor
 
-Upon completing the test, please deliver the code as a zip file, or link to a public repository containing the code, and send it to eric.nishio@nordsoftware.com.
+Upon completing the test, please deliver the code as a zip file called `basic-html5.zip` and send it to eric.nishio@nordsoftware.com.
 
 Good luck!
