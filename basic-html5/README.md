@@ -16,6 +16,7 @@ We will provide you with a [design](design.pdf) for the application and expect y
 
 You will receive extra points for
 
+- A developer-friendly installation guide
 - Form field validation
 - Pagination
 - Editing existing users
