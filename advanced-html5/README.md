@@ -18,7 +18,7 @@ We will provide you with a [design](design.pdf) for the application and expect y
 
 You will receive extra points for
 
-- Using a transpiler and ES.next
+- Using ES2015+ features and a transpiler (e.g. [Babel](http://babeljs.io))
 - Using a CSS framework and a CSS pre-processor
 - Persisting the data in the browser
 - Using a state container such as [Redux](http://redux.js.org)
