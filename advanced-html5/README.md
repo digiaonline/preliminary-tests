@@ -20,7 +20,7 @@ You will receive extra points for
 
 - A developer-friendly installation guide
 - Using ES2015+ features and a transpiler (e.g. [Babel](http://babeljs.io))
-- Using a CSS framework and a CSS pre-processor
+- Using a CSS framework and/or a CSS pre-processor
 - Persisting the data in the browser
 - Using a state container such as [Redux](http://redux.js.org)
 - Adding CSS transitions where appropriate
