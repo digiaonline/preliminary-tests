@@ -16,7 +16,7 @@ Your task is to create a small [React](https://facebook.github.io/react/) applic
 
 We will provide a [design](design.pdf) and expect your application to follow it as accurately as possible.
 
-You will receive extra points for
+You will receive extra points for:
 
 - A developer-friendly installation guide
 - Using ES2015+ features and a transpiler (e.g. [Babel](http://babeljs.io))
