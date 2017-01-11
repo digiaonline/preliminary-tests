@@ -1,4 +1,3 @@
 # Preliminary Tests
 
-- [Basic HTML5](basic-html5)
-- [Advanced HTML5](advanced-html5)
+This repo has moved to [https://github.com/nordsoftware/docs/tree/master/recruitment](https://github.com/nordsoftware/docs/tree/master/recruitment).
